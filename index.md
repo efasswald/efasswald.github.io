@@ -8,3 +8,6 @@ Das ist ein Tier mit vier Beinen, zwei langen Ohren und einen kurzen Schwanz.
 * lange Ohren
 * kurzer Schwanz
 * braun, grau, weiss, mehrfärbig
+
+> Mein Name ist Hase,
+> ich weiss von nichts.
